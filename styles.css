@@ -1,0 +1,38 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+  }
+
+
+
+  th, td {
+    border: 2px solid;
+    text-align: center;
+    padding: 8px;
+    background-color: papayawhip;
+    padding-bottom: 10px;
+  }
+
+ 
+#userForm {
+    padding: 30px;
+
+}
+button {
+    background-color: coral;
+    cursor: pointer;
+
+}
+
+button:hover {
+    color: white;
+    background-color: gray;
+}
+
+#result {
+    background-color: azure;
+}
